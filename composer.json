@@ -1,6 +1,6 @@
 {
     "version": "1.0.6",
-    "name": "mratiebatie/laravel-repositories",
+    "name": "hungnm1518/laravel-repositories",
     "description": "Laravel repositories using the native Eloquent functions",
     "type": "library",
     "license": "MIT",
